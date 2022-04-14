@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfD5CC110b95680fAdC217c2BfE78331A29d3971E",
+  "SCAN_LINK": "https://etherscan.io/token/0xfd5cc110b95680fadc217c2bfe78331a29d3971e",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Meeko World",
+  "SYMBOL": "MW",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.00,
+  "GAS_LIMIT": 95000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/meekoworld",
+  "SHOW_BACKGROUND": true
+}
